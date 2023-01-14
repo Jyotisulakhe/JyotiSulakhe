@@ -1,7 +1,5 @@
 
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/457/141/original/landing-page-template-of-website-design-illustration-concept-isometric-flat-design-concept-of-web-page-design-for-website-and-mobile-website-vector-illustration.jpg
-)](https://jyotisulakhe.io
-)
+
 
 <h1 align="center">Hi 👋, I'm Jyoti Sulakhe</h1>
 <h3 align="center">A passionate Website Designing from India</h3>

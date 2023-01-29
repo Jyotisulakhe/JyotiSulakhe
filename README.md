@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jyotisulakhe123@gmail.com**
 
-- ⚡ Fun fact **I Love listning songs**
+- ⚡ Fun fact **I Love listening songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

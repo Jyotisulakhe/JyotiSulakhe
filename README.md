@@ -12,7 +12,7 @@
 - 💬 Ask me about **HTML,CSS,C Language**
 
 - 📫 How to reach me **jyotisulakhe123@gmail.com || 
-- Linkdin also-Jhttps://www.linkedin.com/in/jyoti-sulakhe-5358b3232**
+   Linkdin also-Jhttps://www.linkedin.com/in/jyoti-sulakhe-5358b3232**
 
 - ⚡ Fun fact **I Love listening songs**
 

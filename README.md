@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML,CSS,C Language**
 
-- 📫 How to reach me **jyotisulakhe123@gmail.com**
+- 📫 How to reach me **jyotisulakhe123@gmail.com || Linkdin -Jyoti Sulakhe**
 
 - ⚡ Fun fact **I Love listening songs**
 

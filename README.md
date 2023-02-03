@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirsulakhe&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirsulakhe" /> </p>
 
-- 🌱 I’m currently learning **c Language**
+- 🌱 I’m currently learning **c# Language**
 
 - 💬 Ask me about **HTML,CSS,C Language**
 

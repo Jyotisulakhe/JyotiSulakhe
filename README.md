@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT **
 
-- 💬 Ask me about **HTML5**
+- 💬 Ask me about **HTML5 | C Language**
 
 - 📫 How to reach me **jyotisulakhe123@gmail.com**
 

@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT | MERN Stack Developer**
 
-- **HTML5 |  CSS | JavaScript | MongoDB**
+- **HTML5 |  CSS | JavaScript | React.js | MongoDB**
 
 - 📫 How to reach me **jyotisulakhe123@gmail.com**
 

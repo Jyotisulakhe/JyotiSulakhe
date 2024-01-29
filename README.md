@@ -2,9 +2,9 @@
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47lzo2iti3vw3lesdsqzgcylam7tmcq8i9updrqao4&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotisulakhe&label=Profile%20views&color=0e75b6&style=flat" alt="jyotisulakhe" /> </p>
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT | MERN Stack Developer**
+- 🌱 I’m currently learning **WEB DEVELOPMENT 
 
-- **HTML5 |  CSS | JavaScript | React.js | MongoDB**
+- **HTML5 |  CSS | JavaScript | React.js **
 
 - 📫 How to reach me **jyotisulakhe123@gmail.com**
 

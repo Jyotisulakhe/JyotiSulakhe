@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT 
 
-- **HTML5 |  CSS | JavaScript | React.js **
+- **HTML5 |  CSS | Java | SQL **
 
 - 📫 How to reach me **jyotisulakhe123@gmail.com**
 
